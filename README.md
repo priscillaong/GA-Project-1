@@ -3,7 +3,7 @@
 # Problem Statement
 This project aims to <br>
 (1) find the correlation of participation rate and SAT score to determine if a higher average SAT score constitutes to a State which performs better academically; and <br>
-(2) find the trends of SAT participation rates in the US and identify States with decreasing participation rates. <br>
+(2) find the trends of SAT participation rates in the US between 2017 and 2019 after a change in test format in 2016 and identify States with decreasing participation rates. <br>
 
 This would allow the College Board to be informed on the correlation of SAT scores and participation rates and work on improving participation rates across the US.
 
@@ -33,4 +33,4 @@ Based on the above EDA and Data Visualisation, we can conclude that there is a n
 
 In general, there is a rising trend in participation rates for SAT in the US from 2017 to 2019 (with the exception of DC, New Hampshire, Hawaii, Nevada and Montana) as the SAT is still a high school graduating requirement in some of these States and SAT scores are a college entrance requirement. With a growing number of selective colleges and universities dropping out of admissions test requirement, the participation rates of SAT across the US have drop significantly in 2022 (1.7 million students as of 28 Sep 2022) as compared to pre-pandemic (2019) rates (2.2 million students in 2019) ([*source*](https://www.washingtonpost.com/education/2022/10/13/act-sat-testing-scores-2022/)). The 2020 and 2021 SAT Scores by State datasets can be analysed to further identify the States with decreased participation rates compared to pre-pandemic.
 
-This project only studied how total SAT score is affected based on the participating rates in different States. Other factors such as wealth, race, quality of education, gender, SAT fee waiver and college entry requirement should be studied upon to correctly identify how to increase  increase the participation rates for SAT across the US.
+This project aimed to study how the change in 2016 SAT test format would affect the participation rates between 2017 - 2019. However, other contributing factors such as wealth, race, quality of education, gender, SAT fee waiver and college entry requirement should be studied upon to correctly identify how to increase increase the participation rates for SAT across the US.
